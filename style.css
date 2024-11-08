@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  input[type="text"] {
+    
+    padding: 2px;
+  }
+  
+  .error {
+    color: red;
+    font-size: 0.9em;
+  }
+  
+  s
+  
+  .contact-item {
+    display: flex;
+    align-items: auto;
+    margin: 2px ;
+    
+  }
+  
+  .contact-item input[type="text"] {
+    width: 35%;
+    margin-right: 2px;
+    color :gray;
+  }
+  
+  .button {
+    padding: 2px ;
+    margin-right: 2px;
+  }
+  
